@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · Visual Designer · Digital Creator**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://brdesenvolvimentos.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.brdevstudio.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/buenomrl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/buenomrl)
 
@@ -18,7 +18,7 @@ I'm Murillo, founder of **BRDev Studio** — a full-stack developer and visual d
 
 I build complete NuvemShop stores, visual identities, landing pages, social media content, video edits, and AI-generated product photos. Everything a business needs to grow digitally.
 
-- 🌐 **Portfolio:** [brdesenvolvimentos.vercel.app](https://brdesenvolvimentos.vercel.app)
+- 🌐 **Portfolio:** [www.brdevstudio.com.br](https://www.brdevstudio.com.br)
 - 📍 **Brazil**
 - 💼 **Open to freelance projects**
 
